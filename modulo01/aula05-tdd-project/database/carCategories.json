@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b32b4b76-77d4-4328-bae4-dbaf5c9a13e4",
+    "name": "Hatchback",
+    "carIds": [
+      "98b1c641-dcb3-4f72-b4ad-c604232c349c",
+      "3c501258-add3-4b14-93a7-1af1f2b49f7e",
+      "23b1e59b-a8ac-4a02-83a7-b44f2bffe776"
+    ],
+    "price": 58.28
+  }
+]
