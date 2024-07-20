@@ -1,0 +1,23 @@
+[
+  {
+    "id": "a040fd2d-7377-4e0c-bfec-688d9ac5ae27",
+    "name": "Coupe",
+    "releaseYear": 2024,
+    "avaliable": true,
+    "gasAvaliable": true
+  },
+  {
+    "id": "5eecc42a-8f29-47b6-9938-a0a0d6ce0b59",
+    "name": "SUV",
+    "releaseYear": 2024,
+    "avaliable": true,
+    "gasAvaliable": true
+  },
+  {
+    "id": "865c3d29-0d8c-4131-b3d8-c5cd6ff16e69",
+    "name": "Convertible",
+    "releaseYear": 2024,
+    "avaliable": true,
+    "gasAvaliable": true
+  }
+]
